@@ -1,0 +1,5 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core/cabextract
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171231
+cabextract_1.11.bb;243818540;1;1705681954;|114777|197644

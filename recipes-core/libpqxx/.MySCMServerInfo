@@ -1,0 +1,5 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core/libpqxx
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171225
+libpqxx_7.7.5.bb;1557527134;1;1705681956;|114766|197596

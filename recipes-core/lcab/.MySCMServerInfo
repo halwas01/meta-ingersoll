@@ -1,0 +1,5 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core/lcab
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171233
+lcab.bb;2772204362;1;1705681955;|114779|197646

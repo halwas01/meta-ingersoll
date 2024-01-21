@@ -1,0 +1,9 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171216
+python3-engineio_3.13.0.bb;1152380907;1;1705681954;|114823|197750
+python3-flask-socketio_4.3.1.bb;3487428707;1;1705681954;|114824|197751
+python3-flask_2.0.3.bb;1107200874;1;1705681954;|114825|197752
+python3-socketio_4.6.0.bb;1228467271;1;1705681954;|114826|197753
+python3-werkzeug_2.0.3.bb;4061708107;1;1705681954;|114827|197754

@@ -1,0 +1,5 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core/insight
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171232
+insight.bb;3081558733;2;1705681954;|114778|197761

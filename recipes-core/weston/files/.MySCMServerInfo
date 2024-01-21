@@ -1,0 +1,5 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core/weston/files
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171246
+weston.ini;2023483086;1;1705681956;|114833|197760

@@ -1,0 +1,13 @@
+#this file should be place inside the directory /etc/systemd/system/db-init.service
+[Unit]
+Description=Initialize DB
+After=postgresql.service
+Requires=postgresql.service
+
+[Service]
+Type=oneshot
+ExecStart=/scripts/db_init.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
