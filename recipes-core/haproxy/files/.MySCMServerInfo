@@ -1,0 +1,7 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core/haproxy/files
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171221
+haproxy.cfg;2357730627;1;1705681954;|114754|197584
+haproxy.init;4104341852;1;1705681954;|114755|197585
+haproxy.service;1464667003;2;1705681954;|114756|197620

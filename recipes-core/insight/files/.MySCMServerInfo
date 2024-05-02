@@ -1,0 +1,9 @@
+SCMBranch=ESSE
+SCMRepository=ESSE/SBC/Yocto/meta-ingersoll/recipes-core/insight/files
+SCMMainlineUUID={c909fad7-33a4-4881-8d07-f79b0832138f}
+SCMBranchRepositoryID=171235
+db-init.service;2028712107;1;1705681954;|114781|197648
+nvme-mount.service;1697512246;1;1705681954;|114782|197649
+postgresql.service;985478331;1;1705681954;|114783|197650
+rsyslog.service;715311962;1;1705681954;|114784|197651
+weston.ini;2023483086;1;1705681954;|114785|197652

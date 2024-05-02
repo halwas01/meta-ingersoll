@@ -1,0 +1,11 @@
+#this file should be place inside the directory /etc/systemd/system/nvme-mount.service
+[Unit]
+Description=Mount NVMe SSD
+
+[Service]
+Type=oneshot
+ExecStart=/scripts/mount_ssd.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
